@@ -1,4 +1,4 @@
 Computational-Photography
 =========================
 
-My Cxperiments with Computational Photography
+My Experiments with Computational Photography
